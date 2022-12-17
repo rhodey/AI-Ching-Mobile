@@ -1,0 +1,718 @@
+Michael William Collins
+
+    The
+AI Ching
+      Or
+AI Book of Changes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The AI Ching
+          Or
+AI Book of Changes
+
+     draft August, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+Divination is another way to write fortune telling and The I Ching is a Chinese divination system approximately three thousand years old. In the Spring of 2022CE an AI model demonstration arrived online with the name “GPT-J 6B” and the more I interacted with this AI the more I became determined to somehow co-author a book with assistance from the AI. I thought to myself what form of AI writing could possibly have mass appeal and then the idea came to me to create and publish an I Ching.
+
+Consider each I Ching to be a collection of 64 chapters plus a procedure for determining which chapter to read. For example one I Ching will include different details for chapter 20 versus another I Ching however both I Ching are supposed to be elaborating upon the same general situation to the reader.
+
+
+
+The total of 64 chapters is arrived upon by combining eight elements pairwise, these elements are: Heaven, Thunder, Water, Mountain, Earth, Wind, Fire, and Lake. By following the procedures of the I Ching you end up with always two elements and always one is thought of as being “above” or “atop” the other.
+
+For each chapter the AI is prompted with a sentence in the form of “ElementA above ElementB represents SituationC, it is important to” … and then the model takes over from there. Notice that this prompt is always asking the AI what it has learned that is most important.
+
+
+
+Using The I Ching
+Begin by gathering three coins plus a pen or pencil and a piece of paper. You are going to be tossing three coins six times total. Coins which land on Tails count as 2 and coins which land on Heads count as 3. With each toss the total will be 6, 7, 8, or 9.
+
+As you toss the coins six times you will draw six lines one atop the other beginning with the bottom line. Odd totals are recorded using one unbroken line (–––) and even totals are recorded using one broken line (– –).
+
+Once you complete your six lines you will have two “trigrams” forming one “hexagram” which indicates which chapter in this book is most relevant to your present situation.
+
+The bottom three lines of your hexagram are referred to as the lower trigram and the top three lines are the upper trigram. Turn now to the next page and you will find a table of all possible combinations.
+
+Table Of Trigrams
+
+
+
+Table Of Contents
+
+[[Here in the publication of this book as an E-Book should be a table of contents which can be used to jump quickly to one or another chapter by clicking or tapping.]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Yielding (Heaven above Heaven)
+
+Heaven above Heaven represents Yielding, it is important to proceed by the path of yielding. The Heaven above Heaven is Yielding in essence, so long as one keeps Yielding to all things, the whole world will be Yielding to the Great Way. Heaven above Heaven is Yielding and all phenomena follow the Way in their movements. There is nothing to be done or not to be done. If one Yields to all things, Yielding is all-encompassing.
+
+Thus, the Heaven above Heaven, it is said Yielding to the great way. What this great way is, I will tell you. It is not about one single thing for it is all-inclusive. It is not about one person for it is all-inclusive. It is not about one nation for it is all-inclusive. This great way is not for one person for it is all-inclusive.
+
+2. Receptive (Earth above Earth)
+
+Earth above Earth represents Receptive, it is important to remember that the first earth is the world of the receptive; a world of ‘understanding, acceptance, openness and receptivity’. The third and fourth earths are the worlds of ‘action, will and passion’.
+
+The third and fourth earths and the fifth earth ‘are the inner earths which are hidden under the veil of the ego and its creations. They are only visible to the pure soul in its awakening to the world. The pure soul will be in a state of complete receptivity.
+
+To the untrained mind this is not possible; it can only exist in the dream-state and a state of sleep. For the trained mind to be aware of this in its waking state is almost unthinkable.
+
+3. Confusion (Water above Thunder)
+
+Water above Thunder represents Confusion, it is important to ask the question, ‘why would they be confused?’ to figure out the source of confusion.
+
+You could simply say “there are too many people in this room.” and then you would have a reason for why you don’t want to have them. As your confusion about the number of people in the room increases the reason for not wanting that many people in the room changes.
+
+4. Youth (Mountain above Water)
+
+Mountain above Water represents Youth, it is important to continue by experience.
+
+The last time that the weather had been on our side was nearly a decade ago before the summer of 2006 in which all was lost. Before it was all lost I never thought that was possible.
+
+That was July 2004, the time I was working at the hospital. One evening as I left work it had rained. I had seen the moon through the windows shining when I arrived at the hospital. I remember that the rain seemed very light without much water falling and a little breeze rustled the dry leaves.
+
+As I walked through the door I was hit with a wave of heat. I didn't realize the air conditioning wasn't working.
+
+5. Waiting (Water above Heaven)
+
+Water above Heaven represents Waiting, it is important to walk along the road of Waiting until the moment of fulfillment arrives; You must practice Waiting in order to accomplish something in this world. There will be good and bad times for every action in the world. Therefore, you must develop the awareness that the present moment is the only moment. The present moment is the only moment that you have.
+
+You have to face the present moment and you have to face the whole world. As a consequence the experience of waiting becomes possible. The reason why we are called samsara is that we always want things to happen according to our wishes. The true meaning of samsara is that we cannot be free because we want to be free. We want things to be free, we want things to be as they are. That is what samsara is. When we wait we know what we are.
+
+6. Conflict (Heaven above Water)
+
+Heaven above Water represents Conflict, it is important to remember that all stories, no matter how bad, have conflict, the only difference is the level of conflict.
+
+Heaven above Water uses it’s conflict to force the reader into the conclusion of the story, the story is written to tell the reader how the main character would feel in this conflict and what the results of their choices would be.
+
+This is best illustrated by the introduction, the main character, Jason is sitting at the table, the other character is sitting on his lap and Jason’s father stands on his side.
+
+This is a nice example of conflict, Jason’s father and the other character can stop him from leaving, however the reader is not sure of this.
+
+7. Age (Earth above Water)
+
+Earth above Water represents Age, it is important to consider Age in order to understand what is happening to the World. The more difficult it is to deal with, the greater Age is used to control it. The greater Age is used to control the World and the greater Age remains in it. It does not matter whether the age in question is represented by the Sun, the Moon, water, wind or air.
+
+The more Age is represented by an Element the more its energy is represented in it and so on. When the Age of Earth above Water is represented by the Moon its energy is controlled by it and so on.
+
+8. Loyalty (Water above Earth)
+
+Water above Earth represents Loyalty, it is important to maintain Loyalty. However, when we are at sea we do not have fellowship with that which is at sea.
+
+Therefore our fellowship with that which is at sea needs to be restored. It has been suggested that we could try to reestablish fellowship by getting involved in shipwreck ministry at sea. While it is good to get involved in shipwreck ministry in our current state of fellowship with the sea our shipwreck ministry is limited.
+
+First, there are those who decide that they are going to go “over the edge” into the deep ocean waters and pray that God will get them back. This will never work. I have watched many men decide that if they are going to die, they will not be afraid. I will not go into the details but the results were horrible.
+
+9. The Small (Wind above Heaven)
+
+Wind above Heaven represents The Small, it is important to keep in mind The Small.
+
+Wind above Heaven is the way to go – small.
+
+The Small is important because it's one element in The Great Harmony.
+
+In any case we will be looking at it.
+
+10. Walking (Mountain above Earth)
+
+Mountain above Earth represents Walking, it is important to do the work and to being prepared for an event like this. We would like to get your input and ideas for this event if you have any thoughts and comments please email.
+
+The following story was emailed to me this morning from Mr. Tom Fennell,
+
+"I live in the city of Boston and have been hiking since my youth. I live by the Charles River and in my younger days did a lot of running by the Charles and then went in for some real climbing. I started to hang around a lot of the serious hikers in town and eventually got the fascination of going to the backcountry.
+
+For the past 20 years I have been able to go out a couple times a month, usually for a full weekend with camping at least on occasion. Most of these trips are in southern New Hampshire or northern Vermont. I have often gone farther than I intended to but it has always been fun.
+
+11. Positivity (Earth above Heaven)
+
+Earth above Heaven represents Positivity, it is important to maintain that Positive attitude towards all things and all life.
+
+We must believe that we are strong and that we can do it.
+
+We must believe that life is good and we have to enjoy it.
+
+I can understand how the world and life have its “happy-go-lucky” people.
+
+12. Stagnation (Heaven above Earth)
+
+Heaven above Earth represents Stagnation, it is important to remember that, the whole album is stagnation…
+
+Heaven Above Earth, the second full length album from Stagnation.
+
+The band plays their usual mixture of thrash, doom, black, crust and grind but Stagnation is also known to have a unique sound. A sound I couldn't quite pinpoint, some would say it's melodic death, others would call it thrash, a few would say that they sound like slayer with no guitars! Whatever you call it, it is there in the Stagnation sound.
+
+This CD comes with a bonus track and booklet full of rare and exclusive information.
+
+Limited to 300 copies.
+
+SIDE A: 01. The Sun Has Seen a Stranger 02. Heaven Above Earth 03. No Mercy for the Wretched 04. The Sun Has Seen a Stranger 05
+
+13. Fellowship (Heaven above Fire)
+
+Heaven above Fire represents Fellowship, it is important to meet with others and to be a part of things, or it can be just a nice way of saying it's lonely up here. We are one of the few places without a single government. If it becomes more popular than Heaven below we will all be forced to go down, but at least we will keep each other company and be safe from the governments.
+
+Heaven Above Fire will be a safe and warm place where people can live in fellowship and friendship. Just remember the old saying: "There are no strangers in Heaven!".
+
+My life's goal, as much as I'd like to share with the world and as much as I'd like to bring joy into the world, will always be focused on making sure I provide the best experience I can to the players, the community, and I do my best to make sure everyone has the best time possible. I've seen players go above and beyond to keep their characters alive, make their homes and their towns look good, work on building their own economy, etc.
+
+14. Prosperity (Fire above Heaven)
+
+Fire above Heaven represents Prosperity, it is important to create your life and dream the life you want.
+
+Today’s cards: The Sun for the week. The Sun is the brightest and hottest light in the sky. It is the highest point in the sky after the North Star and provides the light and warmth to keep you warm during the dark of night. The Sun is the center of our solar system and we depend on it for life.
+
+The Sun is our friend and symbolizes prosperity and growth. The Sun brings you light, warmth and good health. When the Sun is out everyone is outside and enjoying the benefits of its light and heat. The Sun offers us all an abundance of light and warmth making it the symbol of prosperity and abundance.
+
+15. Modesty (Earth above Mountain)
+
+Earth above Mountain represents Modesty, it is important to be modest and remember that life goes on.
+
+To the Mountain all things come and all things go.
+
+Eyes of a Mountain are calm, soft and wise.
+
+The words of a Mountain are simple and clear.
+
+The color of a Mountain is black and white.
+
+As an artist one thing I would like to say is that the black is the ground and all these things are there.
+
+I believe that nature has not done this all for no reason.
+
+There are many other things that I want to say but the main one is to be modest and be there for each other and for the beauty around us.
+
+This message is for everybody that wants to be part of it.
+
+I hope you have good day and I hope to see you all again.
+
+With much love
+
+Yours,
+
+Maria Maggi
+
+16. Harmony (Thunder above Earth)
+
+Thunder above Earth represents Harmony, it is important to notice a great number of factors, however, I suggest you try this experiment with as many factors as you can to see what one you might be missing.
+
+The Moon represents the feminine, how do you feel when you’re around a woman? Warm, or cold, or happy, or sad? Do you think of her in the same way you would a man? When she is with you, does she bring the same light or energy that you get from her, or does she seem to bring less? Do you notice if she ever brings you down, or if you seem to bring her down? If you notice her bring you down there is something wrong with your relationship.
+
+The Sun represents the masculine, how do you feel when you’re around a man? Warm, or cold, or happy, or sad? How does he show you he cares? Does he make you feel good about yourself?
+
+17. Following (Lake above Thunder)
+
+Lake above Thunder represents Following, it is important to be able to change, adapt, flow with what you see, what happens, the changes in the weather, the changing of conditions. When you practice it it becomes your natural tendency. The mountain you are standing on does not know that you are there, but you are there.
+
+If the water is too clear for your liking then you may wish to take a deeper breath in and hold it for longer than you had been. With practice you will learn to do this and breathe into each moment knowing that there is no where else to go, except in this moment, where we are, where we are, where we are:
+
+The Mountain
+
+18. Decay (Mountain above Wind)
+
+Mountain above Wind represents Decay, it is important to know that one has to be on guard for one's personal life, and there are many ways one can do that. It is necessary to understand what the Mountain represents and who it represents then one can apply the knowledge to the situation at hand.
+
+Mountain represents issues involving the home and one's personal space. It represents an individual who needs to be on guard because they do not know how their lives will change when they are in a space where Mountain issues exist.
+
+The key words to remember when using Mountain above Wind are Home and Space. In regard to what the Mountain represents one has to realize that it is an individual who does not have the ability to make changes in their life.
+
+19. Near Benefit (Earth above Lake)
+
+Earth above Lake represents Near Benefit, it is important to remember that as always the winner is determined by the number of points obtained through online discussions and polls. If you enjoy our website, please consider helping us.
+
+After looking back at my time here I see two major turning points. One was on April 1, 2003. When I signed up for this website I thought it was more of a forum for new comers, and not just because of my English being poor, which might explain why I was always on the bottom. When I checked out my "Points" though, I found I was on the very bottom, so I checked out the people above me. A few of them were "active", so I thought they might be worth talking to. One was named "Gonzo". I sent him a message and asked him if he could possibly help me improve my English, to which he responded by asking me what was my native language. "Cantonese", I replied. "Oh", he said, "if you're Cantonese, then you'll fit in fine". So I started chatting with him.
+
+20. Observation (Wind above Earth)
+
+Wind above Earth represents Observation, it is important to consider this aspect of yourself. It’s as if you are being asked to put down some things that are not beneficial to your growth, and to move on. If you are ready to put in the effort you will get amazing results!
+
+Aries Full Moon in Mars – A Full Moon within a month of the Mars Return brings out all the suppressed anger in you and helps you to deal with it. This can go well or be hard depending on how much you have dealt with the anger.
+
+You need to make sure that all the suppressed rage inside you has been expressed in a fair and reasonable manner. If it has been dealt with it will give you strength because you have let go of all the frustration and aggression which has accumulated over the years.
+
+21. Bite Through (Fire above Thunder)
+
+Fire above Thunder represents Biting Through, it is important to know what the fire above the Thunder represents.
+
+Biting Through, is a step-by-step process to bring your desires into manifestation. The next step after Biting Through is for you to make a commitment that you will never eat another piece of candy again!
+
+This is your next step in Biting Through!
+
+Step One: Know What Your Desire Is
+
+Step Two: Biting Through to Manifestation
+
+Step Three: Breaking the Spell of Desire by Making a Decision!
+
+Step Four: Mapping Out the Process
+
+Step Five: Getting Clear On Your Desire
+
+Step Six: Biting Through – Making a Commitment
+
+Step Seven: Manifestation
+
+Step Eight: Biting Through the Fire of Desire
+
+Step Nine: Biting Through the Fire
+
+Step Ten: Breaking the Spell of Desire
+
+22. Grace (Mountain above Fire)
+
+Mountain above Fire represents Grace, it is important to be mindful that the mountain is in motion. Mountain above Fire represents passion, allow this to move you towards higher potential. Fire: represents creativity, ambition, passion and power. Fire is about taking action and creating change. When placed in the chart this is about the need to keep moving forward.
+
+
+23. Splitting Apart (Mountain above Earth)
+
+Mountain above Earth represents Splitting Apart, it is important to notice that Mountain is not a separate realm of spiritual significance. Splitting is inescapable and Mountain is always with us. When we split off our emotions in order to function in society we may think of mountain as a refuge and a place of peace and tranquility but in reality it is quite the opposite. Mountain represents the emotional turmoil and internal conflicts associated with living in this world.
+
+PERSON: You are a Mountain Person.
+
+MAN: You are a great mountain in your ability to persevere in difficult circumstances. You possess great strength and self-confidence. You have a deep ability to endure. You are very capable of accomplishing goals and accomplishing many things on your own. You are independent and strong-willed.
+
+MAN WITH SHINING SIDE: You have an excellent sense of personal self-worth. You are self-confident and you have an excellent ability to deal with the world. You are a mountain of resolve.
+
+24. Repetition (Earth above Thunder)
+
+Earth above Thunder represents Repetition, it is important to note that Repetition is a cycle, and if you look closely at Thunder you will realize that it is cyclical. Thunder is a repetition of the elements as we have seen over and over again.
+
+Thunder is not a direct cause, but rather a tool, a vehicle to convey the word Repetition and to introduce the cycle and the beginning of the beginning of the end of the end of the beginning of the end of the beginning of the end.
+
+The first of the two Thunder that you will hear in the above video is a call to Repetition but the second Thunder will actually convey the message of the cycle.
+
+The second Thunder you hear is in the 4th verse of the song and it says “Thunder”, the same word you have just heard a couple of times, but this is a call to Repetition.
+
+25. Conduct (Heaven above Thunder)
+
+Heaven above Thunder represents Conduct, it is important to use at the beginning of the season as a good first impression.
+
+Conduct - 2 x 4 = 8
+
+The 8th Heaven is also known as the "Heaven of the Stars" because of the great variety of all the stars that have to be arranged here.
+
+The heaven of the stars is a great place to be. The stars that you may see there all glow like beautiful lamps. The light from all those many lamps in the sky all lit together creates a brilliant glow. To have that kind of lighting is a great place to be.
+
+26. Great Savings (Mountain above Thunder)
+
+Mountain above Thunder represents Great Savings, it is important to recognize that the energy of the sun is used to create these clouds and reflect our highest vibration into our surroundings. It is this essence of the sun's energy that keeps us alive and healthy. In reality the clouds above thunder create the storm and the sun rising above the clouds creates our weather. We are part of nature.
+
+Thunder is not always followed by a rainbow and it is a symbol that helps us see the reality of the rain, the colors of the rain are symbols, we need to be aware of the fact that the rain holds the power of life for the living, a rainstorm can save a person in great danger from the high temperatures, and a storm can create a perfect environment for fishing.
+
+27. Nourishment (Mountain above Heaven)
+
+Mountain above Heaven represents Nourishment, it is important to realize.
+
+Re: Mountain Above Heaven represents Nourishment
+
+A simple way to understand is - if you see something with potential that you don't want or is it something you want to use, your mind will try to analyze it and draw conclusions. If you cannot analyze it at the moment, it is considered as a mountain above heaven (the highest potential) which requires a lot of efforts to achieve and then you will get success. This is a bit complicated.
+
+28. Movement (Lake above Wind)
+
+Lake above Wind represents Movement, it is important to make sure that you find the ideal windmill supplier. You can discover one through researching on the internet. You’ll find many websites offering this sort of service. These are usually the ones that are going to offer you the best quality and service of your windmill. It is not necessarily going to get you to buy your windmill but it is going to provide you with the best quality and service that is necessary for your needs.
+
+Categories
+
+Search
+
+Top Guidelines Of small windmill
+
+29. Water (Water above Water)
+
+Water above Water represents Water, it is important to know that water above ground does not equal the safety of your home, your health, or your family's health.
+
+The Water Above Water's website also contains helpful links to:
+
+Get help on your home inspection!
+
+The next step of finding the right home is choosing a home inspector. This will save you time, money and energy. For those who want to know more, see: How to hire a home inspector.
+
+30. Fire (Fire above Fire)
+
+Fire above Fire represents Fire, it is important to understand the true nature of the beast.
+
+Frequently Asked Questions on Fire Above Fire
+
+Is fire above fire a part of nature?
+
+It is not part of nature but instead is simply an attempt to explain what is happening.
+
+Is fire above fire a natural phenomenon?
+
+No, not in the sense that you think.
+
+31. Marriage (Lake above Mountain)
+
+Lake above Mountain represents Marriage, it is important to have good sex in the process.
+
+* **Bubbles of the Heart:** An auspicious sign for many. It is traditional to read the fortunes at the bottom of this card, and it should be read for the right meaning or you will not be any luckier than before. It is also a good card to read if you have a bad friend, as the card implies that your friend is not your friend.
+
+* **Crescent:** This is a very strong card, suggesting that you are in good hands or that a project is going well. There is also much power in the word _crescent,_ which may mean that you are about to meet someone who will help you move forward.
+
+* **Waxing Cauliflower:** This is a very clear card telling you where you stand in your emotional life. If you see this card it is a sign that you are ready.
+
+32. Duration (Thunder above Wind)
+
+Thunder above Wind represents Duration, it is important to not overheat the system, you want a system that will not overheat and explode.
+
+Porcelain wick
+
+Tung Oil or Paraffin
+
+1/2oz to 1oz Per wick
+
+How to Burn your Wick candle?
+
+33. Receding (Heaven above Mountain)
+
+Heaven above Mountain represents Receding, it is important to remember that the people of the West are also suffering. This has been true for generations, but recently, I have been hearing from young people I work with who are struggling with job and education pressures.
+
+I have a student in my program who is a recent college graduate, is the sole provider for his family, is working multiple jobs, and has a master’s degree in Liberal Studies. When he first entered the program last year, he was living with his parents while commuting from Chicago to Seattle. He is working so hard, he’s been working for over 24 hours a week, but he makes just $10/hr. He is working for a private education company that requires him to keep working even if he is sick.
+
+34. Strength (Thunder above Heaven)
+
+Thunder above Heaven represents Strength, it is important to note that the meaning of the title comes from the title of a long poem of the same name, written by the American Emily Dickinson. The sky is the place where everything can be seen, therefore the name is chosen to fit with the poem and its title. The sky is the most beautiful of heavens to see.
+
+The weather was great outside, the sky was not foggy.
+
+35. Advancing (Fire above Earth)
+
+Fire above Earth represents Advancing, it is important to study it for yourself if you are interested in knowing how our Planet is getting better. There are hundreds of videos showing Fire in the Sky and some of them are really interesting but I want to show you something really special.
+
+It happened just before the evening of the 29th, in a place called San José del Potrero, which is about 45 minutes outside of Montevideo, Uruguay.
+
+I am at Montevideo University with a friend of mine and we are watching some interesting videos with some important clues. I have seen these type of videos many times in the last few years and this was the first time I saw something like that in my life. It was around sunset time and we were watching the sky in the western part of the sky. So we were watching the Sunset, and we were looking at the sky, and suddenly I saw an airplane in the distance and I thought “Ok, that’s cool.”
+
+36. Darkening (Earth above Fire)
+
+Earth above Fire represents Darkening, it is important to make connection with the Light in order to overcome this and live a life of Balance and Harmony with it. This also helps in learning lessons and overcoming old ways of living which are unhelpful in the long run.
+
+Connect to the Fire elementals/guardian angels and make them understand and help you see the connection between you and the Light in order to overcome the Darkening. Ask them to help you in making the connection stronger and stronger so you can become brighter and brighter. If you have a strong guardian angel/elemental connected to the Fire, you can ask them to keep you warm and see the light at this time.
+
+Meditate on the energies of Fire and ask the angels and spirit beings for help.
+
+37. Family (Wind above Fire)
+
+Wind above Fire represents Family, it is important to have a vision of Family in Order to maintain Life and continue Living. It is a core or basic element in all things, including our bodies, environments and institutions.
+
+Family must start from the base, the base of individual families, and through individual families, spread out to the base of the world in general. Otherwise, the world is left to the same chaotic and unstable state of the present.
+
+The world is not a place where we can just leave our problems, it is a place where we must take responsibility for our own problems.
+
+38. Oppression (Fire above Lake)
+
+Fire above Lake represents Oppression, it is important to realize what is going on. It is happening in a very specific way for specific people. We need to figure out why.
+
+What are people's attitudes toward fire? I think that we've all come across very negative attitudes in our lives: a child told to keep quiet, a stranger on a plane told not to make so much noise, a fire hydrant that is vandalized, etc. We live in a world where people are trying to prove themselves to the universe, to the man.
+
+We have a way of thinking that says that the human race is in trouble and there is only one thing to do about it and that is to be perfect in our pursuit of perfection.
+
+39. Obstruction (Water above Mountain)
+
+Water above Mountain represents Obstruction, it is important to be always aware of it.
+
+Water that represents you; are you honest?
+
+When you use the Earth you are able to use both the upper half and lower half.
+
+The Water element represents intellect and a deep concentration will allow you to use it.
+
+At home Earth is the foundation. The foundation keeps everything from sinking. If you build something in an unpromising location a better location will be found by digging a foundation.
+
+40. Reprieve (Thunder above Water)
+
+Thunder above Water represents Reprieve, it is important to master the Airborne form in your attack and the ability to change direction. Above Water is an added bonus to it.
+
+“Komori” is a close range, thrusting attack. She'll get the job done. A skilled attack for someone who can make good use of it.
+
+Lancer is your best mid range attack.
+
+Wand is your best long range attack.
+
+Baton is your best close range attack.
+
+These guys are your characters attack capabilities.
+
+41. Loss (Mountain above Lake)
+
+Mountain above Lake represents Loss, it is important to know what Loss that is. Loss is a natural part of things. We have all experienced loss in the past, we have all lost a car, we have all lost a home, we have all lost investments and so on. We must decide what loss we are willing to experience now and what loss is acceptable to experience.
+
+The Water is the Life that has been LOST (in the mind and the body) that now needs to be re-gained by returning to the Source of Energy. If you don’t return to the Source, there is no return.
+
+42. Increase (Wind above Thunder)
+
+Wind above Thunder represents Increase, it is important to understand that the Thunder God wants to bring back the Sun.
+
+At the time that the Fire is set into motion, Earth will also be set into motion.
+
+At the time that we enter into the new time, the Sun will be out and we will experience the light. When the Sun is at its highest point, we will then see what will become the Bright Moon.
+
+At the time of Solar Eclipse, Moon will be at the Mid-point. We will all be experiencing the Light.
+
+43. Decision (Lake above Heaven)
+
+Lake above Heaven represents Decision , it is important to understand that the name also stands for 'Lake of Hell'. The Lake above Heaven is about someone who is being blamed for something that happened to another person. The water of the lake has to do with things that have been lost or stolen, and it represents the guilt associated with some act, or events.
+
+The Lake above Heaven is also called 'Drowning'. Drowning means that you are accused. The hexagram Lake above Heaven is a warning about this sort of situation and a 'divine word' for you.
+
+44. Meeting (Heaven above Wind)
+
+Heaven above Wind represents Meeting, it is important to remember that within it's a meeting between Yin and Yang. And it seems to me that this represents the interplay of Male and Female, since yin and yang are opposites. In any case, I'll be curious to see what you come up with!
+
+I would suggest looking up the concept of metonymy and reading some articles on the subject. I don't think you will find a straight out answer. That being said, the idea of a meeting might be appropriate since we are both into photography. I might be better equipped to answer, but I would suggest that it might be a question of a meeting between different media, not just a simple meeting.
+
+I think that if you consider the different ways in which one might capture images of the natural world there are several possible approaches to a metonymy.
+
+45. Gathering (Lake above Earth)
+
+Lake above Earth represents Gathering, it is important to have a point of view. It is important to look up to the skies and imagine what is really going on.
+
+Earthrise photo was taken on July 24, 1969 by astronaut Bill Anders. He was standing on a foot lock extension while looking down at Earth and capturing a photo of Earth through the lunar window on Apollo 8, Apollo 8 was the first manned mission to the moon. During the mission they reached the moon and stayed there for a day. Bill Anders was the first person to view the entire Earthrise photo as seen above.
+
+In my opinion, Earthrise was the most influential photo taken during the Apollo era. Although not many people could see the full photo of Earth that was taken on July 24, 1969, the view of Earth from the moon that Bill Anders saw was a powerful symbol for many people. It was not just scientists that saw this image but many people who were concerned with the future of life on Earth saw this photo as well.
+
+46. Ascending (Earth above Wind)
+
+Earth above Wind represents Ascending, it is important to understand the basics about it. What is above it? It is one of the 3 dimensions of space, and it is up there, where the other dimensions exist, and it is on top, like the surface of the earth, a dimension, and therefore the surface is called the surface. But above the surface, there are planets and asteroids, that is the surface above the surface. The surface on top of the surface.
+
+Now, if you are living on the surface, Ascending means no more earthquakes, and eventually there will be no more volcanoes. If you are in the ocean, it means that there will be less storms, more open seas. On the earth above the surface. For us on the surface, it means less dust in the air. It's all that. What we see on the surface will change. We'll become one with it and we'll be ready for whatever comes.
+
+47. Difficulty (Lake above Water)
+
+Lake above Water represents Difficulty, it is important to recognize your true feelings and to face the Obstacle. What will you do when you are confronted with Difficulty?
+
+The next time you are faced with a challenge, rather than automatically pushing forward and taking the path of least resistance, stop and consider what lies beneath the surface. Rather than immediately jumping into action dig deeper and search for the answer.
+
+48. Insight (Water above Wind)
+
+Water above wind represents Insight, it is important to have a good understanding of it, I have tried to use it throughout this series on this blog to find solutions. It is important to understand what is wind and what is water, you have to understand how the water moves relative to the wind.
+
+Water above wind represents power, you have to be able to access this to be able to make anything move. With that in mind, let’s start this,
+
+If you have been following my blog you have seen that I have made different devices in order to push/pull things, what I have been doing so far was to take an object or device and I have been making a platform with a set of paddles.
+
+Today we will take two things that I use: a platform and one or more paddles.
+
+49. Evolution (Lake above Fire)
+
+Lake above Fire represents Evolution, it is important to understand the evolutionary nature of this evolution, it is a process of transformation, of taking in and integrating new knowledge. It is a process of taking in and expanding knowledge, of increasing the boundaries of your understanding. This can feel uncomfortable, but it is crucial to realize that it is important for you to develop the ability to grow beyond what you think you know, to question what you know, and to seek new levels of understanding.
+
+The evolution of a single consciousness.
+
+“To be truly free we must also learn to live freely, to live according to our nature and to develop the qualities of our nature, without submitting to any authority, any tradition or any ideology. We must develop the capacity to act by our own decisions, without depending on anyone to initiate our actions or to impose the limits of our actions on us.” – Osho
+
+50. The Cauldron (Fire above Wind)
+
+Fire above Wind represents The Cauldron, it is important to note that this is the name of the land of Faerie and the Celtic word for Ireland is Faer.
+
+For the past three years the Fae have been ruled by The White Queen, the first of their line to rule for any length of time. And even as the first Fae-Gael left after this time of rule, she could not help but look back on the Fae’s golden age as she went, and marvel at its prosperity.
+
+At the time of Tir Tairngire, the Fae of Ireland were not a society of warriors. Their main weapon against outside influence was diplomacy. The land was a rich one, it had the fertile fields and abundant grazing that supported the burgeoning farming towns and villages. Their wealth was such that they no longer needed to raid each other in order to survive. Instead, they established trading agreements with their neighbors. 
+
+51. Shock (Thunder above Thunder)
+
+Thunder above Thunder represents Shock, it is important to have your team and yourself go 100% for the win. If you do well in this tournament, there is definitely a future. In the end we want to fight together with each other, and this can be something important for us as a team. We are happy that we can play in front of the German crowd as we have worked hard to get here. And to top it all off, the first round is against the German team, one of the favorites to win ESL Once Katowice. On our side, this will be the first time that we will play against them, and we know that we can’t look too far ahead."
+
+52. Keeping Still (Mountain above Mountain)
+
+Mountain above Mountain represents Keeping Still, it is important to
+
+##### **Mountain by the Sea**
+
+This is a beautiful mountain with the big peak of Mt. Fuji one of the 5 highest volcanoes in the world.
+
+The views from the mountain are also beautiful but the hike is not short. If you can, try to be there in April and enjoy the view at Sunrise or Sunset.
+
+You should later enjoy the view from the bus terminal too.
+
+53. Gradual Progress (Wind above Mountain)
+
+Wind above Mountain represents Gradual Progress, it is important to realize this as a Mountain represents a life time commitment and as such, a higher degree of commitment. Therefore, it will be important to work with a strong spirit to make any progress and not allow the distractions of the moment and life to get in the way.
+
+54. Passiveness (Thunder above Lake)
+
+Thunder above Lake represents Passiveness, it is important to see the cloud as a manifestation of the energy and the need for that energy. You are also the rainbow at the end of the storm, the light at the end of the tunnel.
+
+The thunderbolt above is what occurs at the end of a dark stormy night. You will feel a rush of energy and you will need to ground that energy.
+
+The lightning above is connected to the mind, the thoughts of yourself. You will think many things, the thoughts of a person and of a world in distress.
+
+55. Abundance (Thunder above Fire)
+
+Thunder above Fire represents Abundance, it is important to work on our relationship with money to realize this. It's not something to be scared of, it's a tool to create and achieve. It's the same with fire. Don't be scared of it, learn to control it and work with it. If it becomes more than you can control, then you need to back away from it.
+
+Do you have a burning desire to create and be of service? Do you wish to contribute and do good for others? If you answered yes, you probably have at least a small desire to be successful.
+
+If you want to create something try focusing on things that are already in your sphere of influence.
+
+56. The Traveler (Fire above Mountain)
+
+Fire above Mountain represents The Traveler, it is important to be aware and wise enough to notice that it represents the human condition, it represents the desire to live and the possibility of increasing what you call "home". Our home represents the place we make our sanctuary. It could be a home we make within ourselves or a home that gives us peace, comfort, love, or simply the feeling that we are home.
+
+57. Wind (Wind above Wind)
+
+Wind above Wind represents Wind, it is important to remember there is always a difference between winds. When we are flying as a group we may begin to feel a different sort of confusion.
+
+The wind above can be confusing or cause a person to get lost. A friend of mine was doing some group flying practice and they got themselves lost because the wind was above wind. In this case they could not find their way back to the point where they started.
+
+58. Temptation (Lake above Lake)
+
+Lake above Lake represents Temptation, it is important to know temptations can arise in any area of our life, they usually arise as a result of our beliefs. Desire arises because of beliefs about reality. Therefore, understanding the beliefs and desires of our subconscious and the beliefs of our conscious ego is essential to gaining control over the ego, which leads to liberation.
+
+There are different kinds of temptations and different kinds of beings:
+
+1) We are tempted by other conscious beings in the form of the external mind.
+
+2) We are tempted by our own self in the form of our own ego, we are either tempted to believe that our reality is finite and our reality is not finite, we are tempted to believe that we are finite and we are not finite.
+
+3) Temptation can also come from an external agency
+
+4) We can be tempted
+
+59. Dispersion (Wind above Water)
+
+Wind above Water represents Dispersion, it is important to be seen, to not be just heard.
+
+The wind blows the water into clouds.
+
+Rain comes and the clouds break to form the sky that covers the world.
+
+Some clouds become heavy.
+
+Rain becomes heavy.
+
+60. Limitation (Water above Lake)
+
+Water above Lake represents Limitation, it is important to be aware of it. When you are on a waterslide it is important to be aware of the water levels because they are not always level or flat. Water levels will keep changing depending on the water level at the slide pool and also where you are in the waterpark, so you must keep a close eye on the level of water to prevent injury. This can be achieved through the study of water techniques under the following topics:
+
+Safety
+
+Knowledge
+
+Danger Underwater
+
+Safe Swimming
+
+Safety Snorkeling
+
+Safety Scuba
+
+Safety Waterslide
+
+61. Near Fullness (Wind above Lake)
+
+Wind above Lake represents Near Fullness, it is important to note that this wave represents a “Near Fullness” as there is not yet Fullness of Water in the Wave. To experience Fullness of Water you will require that the Wave you ride in is above “Half Full” or a wave representing Fullness.
+
+The Wave you experience will not always have the highest of “Filling Value” or Water “Filling”, a measure of the degree of Fullness that can be in the water. This is important to understand when considering aspects of the Wave, the Energy of the Wave, and its Effect on your Boat.
+
+62. Caution (Thunder above Mountain)
+
+Thunder above Mountain represents Caution, it is important to be wise and careful.
+
+Above the cloud white light is represented meaning the possibility of great reward if followed prudently.
+
+A black cloud over the sun or moon represents a threat to the achievement of those things hoped for.
+
+The Cloud above the Moon represents that which we have not attained and the need to exercise prudence in what we do.
+
+A cloud under the Moon represents the need to avoid a threat to success.
+
+When the Moon is surrounded by the white of clouds it signifies the need to act with caution in matters which must be negotiated.
+
+63. Repair (Water above Fire)
+
+Water above Fire represents Repair, it is important to understand this article is a part of "The Cycle", a series of articles that are based on my book "The Cycle". The current article continues from "Drowning by The Numbers" in the book. You may find that they are easier to understand if you read "Drowning by The Numbers" before this.
+
+When I was a kid and started learning English, we learned the word “repairs” for repairs of any person but when we learned about Repair and Recovery it was about repairing or restoring something after breaking, losing or damaging.
+
+Repair is when we fix something after it broke, we fixed something in the broken state. We repair things by giving them a new form, repairing a boat by giving it a new look.
+
+So how do you repair the Water Above Fire?
+
+64. Rebounding (Fire above Water)
+
+Fire above Water represents Rebounding, it is important to keep the Fire Burning by adding positive Energy every day.
+
+For the month of February try a new way of looking at your Life, a new way of experiencing the world around you, for the month of February:
+
+Try a new way of interacting with other Human Beings
+
+Make a New Friend for the Month of February
+
+Let’s face it we are Social Creatures. I always say if we were not social beings we would not live.
+
+When we start living in the first place we are born and we are social.
+
+Therefore if we want to continue living in the first place we should find a way to be social beings.
