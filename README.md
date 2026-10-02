@@ -1,5 +1,5 @@
 # AI-Ching-Mobile
-This repo contains the source code for the AI Ching mobile application and you can read more about this project [here](https://rhodey.org/ai-ching-rejected-by-apple).
+This repo contains the source code for the AI Ching mobile application and you can read more about this project [here](https://rhodey.org/blog/introducing-the-ai-ching).
 
 ## Android
 ```
